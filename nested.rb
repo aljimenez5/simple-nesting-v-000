@@ -70,7 +70,7 @@ def adding_matz
 #    :languages => ["LISP", "C"]
 # }
 
-programmer_hash[[Hash]]
+programmer_hash[:yukihiro_matsumoto[Hash[:known_for, "Ruby", :languages["LISP", "C"]]]]
 
 	programmer_hash = 
  		{
